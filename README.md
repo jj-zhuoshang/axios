@@ -1,3 +1,4 @@
+基于TypeScript的Axios
 使用方式：
 1. 初始化资源 在终端运行
 2. 在Pages里添加 index.html 和 app.ts进行编写即可
